@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_connection"
+        android:title="Connexion"
+        android:icon="@android:drawable/ic_menu_edit"
+        />
+    <item
+        android:id="@+id/action_inscription"
+        android:title="Inscription"
+        android:icon="@android:drawable/ic_menu_edit"
+        />
+    <item
+        android:id="@+id/action_monnaies"
+        android:title="Monnaies classiques"
+        android:icon="@android:drawable/ic_menu_edit"
+        />
+    <item
+        android:id="@+id/action_cryptos"
+        android:title="Cryptomonnaies"
+        android:icon="@android:drawable/ic_menu_edit"
+        />
+
+
+
+
+
+</menu>
