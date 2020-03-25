@@ -1,4 +1,4 @@
-package fr.esilv.tuto2;
+package fr.esilv.SmartFinance;
 
 import androidx.appcompat.app.AppCompatActivity;  // linear layout: "div" widgets into it
 

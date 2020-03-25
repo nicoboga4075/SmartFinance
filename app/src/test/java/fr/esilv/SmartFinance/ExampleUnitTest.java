@@ -1,4 +1,4 @@
-package fr.esilv.tuto2;
+package fr.esilv.SmartFinance;
 
 import org.junit.Test;
 
